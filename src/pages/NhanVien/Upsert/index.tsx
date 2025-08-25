@@ -1,4 +1,4 @@
-import { Fragment, useEffect, useRef, useState } from 'react';
+import { Fragment, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import type { IStaff } from '../../../interfaces/NhanVien';
 import { useDispatch, useSelector } from 'react-redux';
